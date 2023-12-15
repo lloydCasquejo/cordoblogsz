@@ -1,0 +1,215 @@
+html,
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: rgb(22, 14, 14);
+  font-weight: 700;
+}
+.sungka,
+.roses,
+.lungsod,
+.church,
+.Lantaw,
+.plaza {
+  text-align: center;
+}
+
+.containermt-3 {
+  background-color: gray;
+}
+.containermt-4 {
+  background-color: gray;
+}
+.containermt-5 {
+  background-color: gray;
+}
+.containermt-6 {
+  background-color: gray;
+}
+.containermt-7 {
+  background-color: gray;
+}
+.containermt-8 {
+  background-color: gray;
+}
+.navbar {
+  background-color: gray;
+}
+.navbar .nav-link {
+  font-size: 17px;
+  font-weight: 700;
+  font-family: arial;
+  color: black;
+}
+.hi {
+  text-align: center;
+}
+.navbar .nav-link:hover {
+  color: rgb(252, 141, 141);
+}
+.navbar .nav-link.active {
+  color: rgb(252, 141, 141);
+}
+.navbar-toggler {
+  color: rgb(93, 28, 28);
+}
+.navbar-toggler-icon {
+  color: rgb(204, 204, 204);
+  padding-top: 15%;
+  font-size: 23px;
+}
+.section-aboutus {
+  background: rgb(129, 135, 137);
+  background: linear-gradient(
+      90deg,
+      rgba(103, 174, 202, 0.45) 20%,
+      rgba(103, 86, 130, 0.45) 85%
+    ),
+    url(../images/cordova.jpg);
+  background-size: cover;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.section-home {
+  background: rgb(6, 22, 28);
+  background: linear-gradient(
+      90deg,
+      rgba(103, 174, 202, 0.45) 20%,
+      rgba(103, 86, 130, 0.45) 85%
+    ),
+    url(../images/cordovaseal.jpg);
+  background-size: cover;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.section-home h1,
+h5 {
+  margin-top: 20%;
+  font-size: 3.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: 100%;
+}
+.section-home p {
+  font-family: "Poppins", sans-serif;
+}
+.section-home h3 {
+  font-size: 3rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.button-link {
+  padding: 15px 42px;
+
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 5%;
+}
+
+.section-style {
+  background: rgb(107, 122, 128);
+  background: linear-gradient(
+      90deg,
+      rgba(5, 24, 32, 0.375) 20%,
+      rgba(103, 86, 130, 0.45) 85%
+    ),
+    url(../images/ok2.jpg);
+  background-size: cover;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.section-style h1,
+h4 {
+  font-size: 3.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: 100%;
+  color: rgb(210, 227, 227);
+}
+.section-style p {
+  font-family: "Poppins", sans-serif;
+  color: gray;
+}
+.section-style h3 {
+  font-size: 3rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: teal;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  background-color: white;
+}
+td {
+  border: 1px solid rgb(239, 229, 229);
+  align-items: center;
+  text-align: center;
+  font-style: normal;
+}
+.section {
+  border: none;
+}
+h1 {
+  color: rgb(18, 19, 19);
+  padding: 5px;
+  color: red;
+  text-transform: capitalize;
+}
+table tr td {
+  height: 50px;
+  color: rgb(41, 39, 39);
+  width: 5px;
+}
+td:hover {
+  transform: scale(90%);
+  transition: all ease 1s;
+  cursor: pointer;
+}
+.element1 {
+  color: orange;
+}
+.b {
+  background-color: rgb(120, 122, 129);
+}
+.c {
+  background-color: rgb(158, 235, 235);
+}
+.r {
+  background-color: rgb(248, 190, 205);
+}
+.v {
+  background-color: rgb(55, 48, 68);
+}
+.g {
+  background-color: rgb(131, 211, 174);
+}
+.y {
+  background-color: rgb(245, 245, 194);
+}
+.p {
+  background-color: rgb(247, 204, 211);
+}
+.o {
+  background-color: rgb(250, 201, 155);
+}
+.bg {
+  background-color: rgb(150, 178, 230);
+}
+.gr {
+  background-color: rgb(165, 160, 160);
+}
